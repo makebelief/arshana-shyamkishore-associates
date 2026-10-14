@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Independent unapproved preview: HTML meta robots noindex,follow.
+# Allow social link preview crawlers to fetch public content.
